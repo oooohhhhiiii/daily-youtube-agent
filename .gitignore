@@ -1,0 +1,9 @@
+.env
+output/
+__pycache__/
+.venv/
+*.pyc
+*.zip
+.mcp.json
+.claude/
+run_log.txt
